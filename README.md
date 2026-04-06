@@ -41,8 +41,7 @@ The model was trained on 11,000+ real vehicle records from the **Car Features an
 
 ## 🌐 Live Demo
 
-> 🚀 **[Click here to try the app](https://your-app-link.streamlit.app)**
-> *(Deploy on Streamlit Cloud and replace this link)*
+# > 🚀 **[Click here to try the app](https://car-mpg-prediction.streamlit.app/)**
 
 ---
 
