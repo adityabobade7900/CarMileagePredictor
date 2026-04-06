@@ -216,13 +216,6 @@ http://localhost:8501
 
 ---
 
-## 📸 Screenshots
-
-> *(Add screenshot of your running Streamlit app here)*
-> Drag and drop your app screenshot into this section after uploading to GitHub.
-
----
-
 ## 👨‍💻 Author
 
 **Aditya Bobade**
